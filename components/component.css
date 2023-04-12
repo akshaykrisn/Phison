@@ -1,0 +1,9 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-text {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  position: relative;
+}
